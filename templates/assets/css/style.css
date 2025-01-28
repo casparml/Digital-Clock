@@ -164,6 +164,16 @@ body {
         inset -3.75px -3.75px 7.5px rgba(0,0,0,0.75);
     }
 
+    #hrDots .dot::before {
+        box-shadow: 1.5px 9px var(--clr),
+        4px 18px var(--clr);
+    }
+
+    #hrDots .dot.active ~ .dot::before {
+        box-shadow: 1.5px 9px #555,
+        4px 18px #555;
+    }
+
     #secDots h2,
     #minDots h2,
     #hrDots h2 {
