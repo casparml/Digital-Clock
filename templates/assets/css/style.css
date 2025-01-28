@@ -139,6 +139,44 @@ body {
     #clock {
         margin: 2.5rem 0;
         flex-direction: column;
+        gap: 60px;
+    }
+
+    #secDots,
+    #minDots,
+    #hrDots {
+        width: 150px;
+        height: 150px;
+    }
+
+    #secDots::before,
+    #minDots::before,
+    #hrDots::before {
+        border-radius: 50%;
+        box-shadow: 18.75px 18.75px 56.25px rgba(0,0,0,0.25),
+        7.5px 7.5px 52.5px rgba(0,0,0,0.25),
+        inset 3.75px 3.75px 7.5px rgba(0,0,0,0.5),
+        inset 3.75px 3.75px 15px rgba(255,255,255,0.2),
+        inset -3.75px -3.75px 7.5px rgba(0,0,0,0.75);
+    }
+
+    #secDots h2,
+    #minDots h2,
+    #hrDots h2 {
+        font-size: 3em;
+    }
+
+    #secDots h2 span,
+    #minDots h2 span,
+    #hrDots h2 span {
+        font-size: .25em;
+        bottom: 36px;
+    }
+
+    #secDots .dot,
+    #minDots .dot,
+    #hrDots .dot {
+        transform-origin: 75px;
     }
 
     #secDots {
@@ -153,7 +191,7 @@ body {
         order: 3;
     }
 
-    #secDots b {
-        transform: rotate(-90deg) translate(-30px,650px);
+    #hrDots b {
+        transform: rotate(-90deg) translate(-63px,27px);
     }
 }
