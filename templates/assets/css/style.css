@@ -136,6 +136,11 @@ body {
 
 
 @media screen and (max-width: 880px) {
+    body {
+        min-height: auto;
+        margin-top: 2.75rem;
+    }
+
     #clock {
         flex-direction: column;
         gap: 60px;
