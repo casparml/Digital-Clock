@@ -137,7 +137,6 @@ body {
 
 @media screen and (max-width: 880px) {
     #clock {
-        margin: 2.5rem 0;
         flex-direction: column;
         gap: 60px;
     }
