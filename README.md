@@ -16,20 +16,23 @@ The project follows a simple organization:
 
 ```
 digital-clock/
-├── index.html          # Main HTML file
+├── index.html
 ├── templates/
 │   └── assets/
 │       ├── css/
-│       │   └── style.css   # Styling
+│       │   └── style.css
+│       ├── img/
+│       │   └── favicon.ico
 │       └── js/
-│           └── app.js      # Clock logic
-└── README.md           # Documentation
+│           └── app.js
+└── README.md
 ```
 
 Each file serves a specific purpose:
 - `index.html`: Contains the clock's HTML structure and layout
 - `style.css`: Defines the visual appearance and animations
 - `app.js`: Implements the time calculation and display logic
+- `READ.md`: Contains the documentation of this project
 
 ## Getting Started
 
