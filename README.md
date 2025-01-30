@@ -50,7 +50,7 @@ simple-digital-clock/
 
 ### Usage
 
-1. Open [index.html](http://_vscodecontentref_/3) in your web browser to view the clock.
+1. Open [index.html](https://github.com/casparml/Digital-Clock/blob/main/index.html) in your web browser to view the clock.
 
 ### Files
 
@@ -60,11 +60,11 @@ simple-digital-clock/
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE](http://_vscodecontentref_/4) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/casparml/Digital-Clock?tab=MIT-1-ov-file) file for details.
 
 ## Author
 
-- **Caspar Landman**
+- **[Caspar Landman] (https://casparlandman.com/)**
 
 ## Acknowledgments
 
