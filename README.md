@@ -64,7 +64,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ## Author
 
-- **[Caspar Landman] (https://casparlandman.com/)**
+- **[Caspar Landman](https://casparlandman.com/)**
 
 ## Acknowledgments
 
