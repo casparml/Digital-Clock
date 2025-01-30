@@ -12,24 +12,24 @@ A simple digital clock that displays the current time in hours, minutes, and sec
 
 ## Project Structure
 
-The project directory is structured as follows:
+The project follows a simple organization:
 
 ```
-simple-digital-clock/
-├── index.html
+digital-clock/
+├── index.html          # Main HTML file
 ├── templates/
-│   ├── assets/
-│   │   ├── css/
-│   │   │   └── style.css
-│   │   └── js/
-│   │       └── app.js
-└── README.md
+│   └── assets/
+│       ├── css/
+│       │   └── style.css   # Styling
+│       └── js/
+│           └── app.js      # Clock logic
+└── README.md           # Documentation
 ```
 
-- **index.html**: The main HTML file that includes the structure of the clock.
-- **templates/assets/css/style.css**: The CSS file that styles the clock.
-- **templates/assets/js/app.js**: The JavaScript file that handles the clock logic.
-- **README.md**: The file you are currently reading.
+Each file serves a specific purpose:
+- `index.html`: Contains the clock's HTML structure and layout
+- `style.css`: Defines the visual appearance and animations
+- `app.js`: Implements the time calculation and display logic
 
 ## Getting Started
 
