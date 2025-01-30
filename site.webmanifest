@@ -1,0 +1,31 @@
+{
+    "name": "Simple Digital Clock",
+    "short_name": "Digital Clock",
+    "description": "A simple digital clock that displays the current time in hours, minutes, and seconds. The clock adjusts to your timezone and updates in real-time.",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#2f363e",
+    "theme_color": "#2f363e",
+    "icons": [
+      {
+        "src": "templates/assets/img/favicon-32x32.png",
+        "sizes": "32x32",
+        "type": "image/png"
+      },
+      {
+        "src": "templates/assets/img/favicon-16x16.png",
+        "sizes": "16x16",
+        "type": "image/png"
+      },
+      {
+        "src": "templates/assets/img/apple-touch-icon.png",
+        "sizes": "180x180",
+        "type": "image/png"
+      },
+      {
+        "src": "templates/assets/img/favicon.ico",
+        "sizes": "48x48",
+        "type": "image/x-icon"
+      }
+    ]
+  }
