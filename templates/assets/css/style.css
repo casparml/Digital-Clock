@@ -193,18 +193,6 @@ body {
         transform-origin: 75px;
     }
 
-    #secDots {
-        order: 1;
-    }
-
-    #minDots {
-        order: 2;
-    }
-
-    #hrDots {
-        order: 3;
-    }
-
     #hrDots b {
         transform: rotate(-90deg) translate(-63px,27px);
     }
