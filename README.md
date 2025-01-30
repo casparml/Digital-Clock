@@ -32,7 +32,7 @@ Each file serves a specific purpose:
 - `index.html`: Contains the clock's HTML structure and layout
 - `style.css`: Defines the visual appearance and animations
 - `app.js`: Implements the time calculation and display logic
-- `READ.md`: Contains the documentation of this project
+- `README.md`: Contains the documentation of this project
 
 ## Getting Started
 
