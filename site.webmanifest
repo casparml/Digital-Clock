@@ -1,5 +1,5 @@
 {
-    "name": "Simple Digital Clock",
+    "name": "Digital Clock",
     "short_name": "Digital Clock",
     "description": "A simple digital clock that displays the current time in hours, minutes, and seconds. The clock adjusts to your timezone and updates in real-time.",
     "start_url": "/index.html",
@@ -8,13 +8,8 @@
     "theme_color": "#2f363e",
     "icons": [
       {
-        "src": "templates/assets/img/favicon-32x32.png",
-        "sizes": "32x32",
-        "type": "image/png"
-      },
-      {
-        "src": "templates/assets/img/favicon-16x16.png",
-        "sizes": "16x16",
+        "src": "templates/assets/img/favicon-96x96.png",
+        "sizes": "96x96",
         "type": "image/png"
       },
       {
