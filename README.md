@@ -1,6 +1,6 @@
 # Simple Digital Clock
 
-A simple digital clock that displays the current time in hours, minutes, and seconds. The clock adjusts to your timezone and updates in real-time. It uses three distinct colors for optimal readability and also displays the current time of day (AM/PM).
+Free online digital clock with real-time display of hours, minutes, and seconds. Features automatic timezone detection, color-coded time segments, and AM/PM indicator. Easy to read and always accurate.
 
 ## Features
 
@@ -44,7 +44,7 @@ Each file serves a specific purpose:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/simple-digital-clock.git
+    git clone https://github.com/casparml/Digital-Clock.git
     ```
 2. Navigate to the project directory:
     ```sh
