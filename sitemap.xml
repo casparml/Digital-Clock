@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://casparml.github.io/Digital-Clock/</loc>
+        <loc>https://digitalclock.app/</loc>
         <lastmod>2025-01-30</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://casparml.github.io/Digital-Clock/templates/assets/css/style.css</loc>
+        <loc>https:/digitalclock.app/templates/assets/css/style.css</loc>
         <lastmod>2025-01-30</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>https://casparml.github.io/Digital-Clock/templates/assets/js/app.js</loc>
+        <loc>https://digitalclock.app/templates/assets/js/app.js</loc>
         <lastmod>2025-01-30</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>

@@ -1,8 +1,9 @@
 {
     "name": "Digital Clock",
     "short_name": "Digital Clock",
-    "description": "A simple digital clock that displays the current time in hours, minutes, and seconds. The clock adjusts to your timezone and updates in real-time.",
+    "description": "Free online digital clock with real-time display of hours, minutes, and seconds. Features automatic timezone detection, color-coded time segments, and AM/PM indicator. Easy to read and always accurate.",
     "start_url": "/index.html",
+    "scope": "/",
     "display": "standalone",
     "background_color": "#2f363e",
     "theme_color": "#2f363e",

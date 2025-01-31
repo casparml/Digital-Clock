@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://casparml.github.io/Digital-Clock/sitemap.xml
+Sitemap: https://digitalclock.app/sitemap.xml
