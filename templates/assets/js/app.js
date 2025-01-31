@@ -15,8 +15,8 @@ function clock() {
     let hoursDots = generateDots(12, hours, 30, false);
 
     secDots.innerHTML = secondsDots + '<h1>' + zero(seconds) + '<br><span>Seconds</span></h1>';
-    minDots.innerHTML = minutesDots + '<h1>' + zero(minutes) + '<br><span>Minutes</span></h1>';
-    hourDots.innerHTML = hoursDots + '<b>' + daytime + '</b>' + '<h1>' + zero(hours) + '<br><span>Hours</span></h1>';
+    minDots.innerHTML = minutesDots + '<h2>' + zero(minutes) + '<br><span>Minutes</span></h2>';
+    hourDots.innerHTML = hoursDots + '<b>' + daytime + '</b>' + '<h3>' + zero(hours) + '<br><span>Hours</span></h3>';
 }
 
 function generateDots(total, current, degree, isSeconds) {
