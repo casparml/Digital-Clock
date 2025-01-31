@@ -47,9 +47,9 @@ body {
     inset -5px -5px 10px rgba(0,0,0,0.75);
 }
 
-#secDots h2,
-#minDots h2,
-#hrDots h2 {
+#secDots h1,
+#minDots h1,
+#hrDots h1 {
     position: absolute;
     text-align: center;
     transform: rotate(-90deg);
@@ -63,9 +63,9 @@ body {
     color: var(--clr);
 }
 
-#secDots h2 span,
-#minDots h2 span,
-#hrDots h2 span {
+#secDots h1 span,
+#minDots h1 span,
+#hrDots h1 span {
     position: absolute;
     font-size: .25em;
     font-weight: 500;
@@ -174,15 +174,15 @@ body {
         4px 18px #555;
     }
 
-    #secDots h2,
-    #minDots h2,
-    #hrDots h2 {
+    #secDots h1,
+    #minDots h1,
+    #hrDots h1 {
         font-size: 3em;
     }
 
-    #secDots h2 span,
-    #minDots h2 span,
-    #hrDots h2 span {
+    #secDots h1 span,
+    #minDots h1 span,
+    #hrDots h1 span {
         font-size: .25em;
         bottom: 36px;
     }
