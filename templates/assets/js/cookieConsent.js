@@ -64,12 +64,14 @@
 	    	if (currentPreferences["marketing"] == 1) {
 				gtag('consent', 'update', {
 							'ad_storage': 'granted',
+							'ad_user_data': 'granted',
                             'ad_personalization': 'granted',
 							'analytics_storage': 'granted',
 							'personalization_storage': 'granted'});
 			} else if (currentPreferences["marketing"] == 0) {
 				gtag('consent', 'update', {
 							'ad_storage': 'denied',
+							'ad_user_data': 'denied',
                             'ad_personalization': 'denied',
 							'analytics_storage': 'denied',
 							'personalization_storage': 'denied'});
